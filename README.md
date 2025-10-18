@@ -1,16 +1,17 @@
-## Hi there 👋
+## About Me
+Just another curious mind wandering through code, trying to understand *why it all matters*.  
+I love diving deep to grasp the core of things — currently exploring **Spring Boot** and other technologies to build systems that feel *balanced* and meaningful.
 
-<!--
-**MAffanG/MAffanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
+- Seeking out knowledge and applying it to grow a little every day  
+- Making sure my curiosity never falls asleep 💤  
+- Slowly connecting ideas between code, creativity, and clarity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 😄 Fun Fact
+Some days I feel like my code is a rebellion against my sanity 🤯💥
+
+---
