@@ -8,6 +8,7 @@ I love diving deep to grasp the core of things — currently exploring **Spring 
 - Seeking out knowledge and applying it to grow a little every day  
 - Making sure my curiosity never falls asleep 💤  
 - Slowly connecting ideas between code, creativity, and clarity
+- Currently sharpening my problem-solving skills on [LeetCode](https://leetcode.com/u/Affan_Ghori) — one problem at a time 💻  
 
 ---
 
