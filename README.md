@@ -1,13 +1,16 @@
 ## About Me
-Just another curious mind wandering through code, trying to understand *why it all matters*.  
-I love diving deep to grasp the core of things — currently exploring **Spring Boot** and other technologies to build systems that feel *balanced* and meaningful.
+> "In the middle of chaos, curiosity keeps me sane."
+
+Hey there 👋
+I’m **Affan**, someone who believes that curiosity isn’t just a trait — it’s fuel.
+I love exploring **why** things work, not just **how**.
+Currently diving deep into Spring Boot and backend systems to create things that feel **balanced** and **impactful**.
 
 ---
 
 ## 🚀 What I'm Up To
-- Seeking out knowledge and applying it to grow a little every day  
-- Making sure my curiosity never falls asleep 💤  
-- Slowly connecting ideas between code, creativity, and clarity
+- Learning and growing through clean, thoughtful code  
+- Exploring connections between creativity, clarity, and code
 - Currently sharpening my problem-solving skills on [LeetCode](https://leetcode.com/u/Affan_Ghori) — one problem at a time 💻  
 
 ---
