@@ -1,10 +1,9 @@
 ## About Me
-> "In the middle of chaos, curiosity keeps me sane."
+Hey there 👋 I’m Affan, someone who believes that curiosity isn’t just a trait — it’s fuel.
+I love exploring why things work, not just how.
 
-Hey there 👋
-I’m **Affan**, someone who believes that curiosity isn’t just a trait — it’s fuel.
-I love exploring **why** things work, not just **how**.
-Currently diving deep into Spring Boot and backend systems to create things that feel **balanced** and **impactful**.
+Currently diving deep into Spring Boot and React, learning to build things that feel balanced and impactful.
+There’s always more to a thing than just luck. ✨
 
 ---
 
