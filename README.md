@@ -8,7 +8,7 @@ There’s always more to a thing than just luck. ✨
 ---
 ## 📢 Featured Article
 
-My Java Advent Calendar 2025 article is now live:  
+My Java Advent Calendar 2025 article:  
 [How Understanding Request Flow in Spring Boot Changed the Way I Code](https://www.javaadvent.com/2025/12/how-understanding-request-flow-in-spring-boot-changed-the-way-i-code.html)
 
 
