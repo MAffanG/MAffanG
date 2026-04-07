@@ -1,8 +1,8 @@
 ## About Me
 Hey there 👋 I’m Affan, someone who believes that curiosity isn’t just a trait — it’s fuel.
-I love exploring why things work, not just how.
+I enjoy understanding how systems work — not just using them, but breaking them down and building them better.
 
-Currently diving deep into Spring Boot and React, learning to build things that feel balanced and impactful.
+Currently focused on **Spring Boot** and backend development, learning how real-world systems handle requests, performance, and scalability.
 There’s always more to a thing than just luck. ✨
 
 ---
@@ -14,13 +14,15 @@ My Java Advent Calendar 2025 article:
 
 ---
 ## 🚀 What I'm Up To
-- Learning and growing through clean, thoughtful code  
-- Exploring connections between creativity, clarity, and code
-- Currently sharpening my problem-solving skills on [LeetCode](https://leetcode.com/u/Affan_Ghori) — one problem at a time 💻  
+- Writing cleaner, more maintainable code  
+- Exploring backend architecture and system behavior 
+- Strengthening problem-solving through [LeetCode](https://leetcode.com/u/Affan_Ghori)
 
 ---
 
-## 😄 Fun Fact
-Some days I feel like my code is a rebellion against my sanity 🤯💥
+## 😄 Note
 
----
+Still learning. Still building.  
+Some days debugging code, some days debugging thoughts.
+
+I occasionally write too — when code isn’t enough to express it.
