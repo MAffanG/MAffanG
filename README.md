@@ -26,3 +26,5 @@ Still learning. Still building.
 Some days debugging code, some days debugging thoughts.
 
 I occasionally write too — when code isn’t enough to express it.
+
+Open to feedback and improvements — always looking to learn and refine.
